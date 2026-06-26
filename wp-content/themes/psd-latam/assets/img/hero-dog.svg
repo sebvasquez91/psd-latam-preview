@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Assistance dog illustration">
+  <!-- ears -->
+  <g fill="#c98a4a">
+    <path d="M72 72 C42 62 30 112 50 152 C62 122 74 98 88 88 Z"/>
+    <path d="M168 72 C198 62 210 112 190 152 C178 122 166 98 152 88 Z"/>
+  </g>
+  <!-- head -->
+  <ellipse cx="120" cy="118" rx="66" ry="62" fill="#efd2a0"/>
+  <!-- muzzle -->
+  <ellipse cx="120" cy="150" rx="42" ry="34" fill="#f7e6c5"/>
+  <!-- eyes -->
+  <g fill="#3b2f2a">
+    <ellipse cx="96" cy="108" rx="9" ry="11"/>
+    <ellipse cx="144" cy="108" rx="9" ry="11"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="99" cy="104" r="3"/>
+    <circle cx="147" cy="104" r="3"/>
+  </g>
+  <!-- nose + mouth -->
+  <ellipse cx="120" cy="140" rx="13" ry="9" fill="#3b2f2a"/>
+  <path d="M120 149 C120 162 110 168 100 166 M120 149 C120 162 130 168 140 166" stroke="#9a7b53" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- bandana / assistance vest -->
+  <path d="M70 188 C95 205 145 205 170 188 L184 236 L56 236 Z" fill="#0a5fb6"/>
+  <circle cx="120" cy="214" r="16" fill="#ffffff"/>
+  <g transform="translate(120,214) scale(0.55)" fill="#0a5fb6">
+    <ellipse cx="0" cy="6" rx="8" ry="6.5"/>
+    <ellipse cx="-9" cy="-3" rx="3.4" ry="4.5"/>
+    <ellipse cx="-3" cy="-8" rx="3.4" ry="4.7"/>
+    <ellipse cx="3" cy="-8" rx="3.4" ry="4.7"/>
+    <ellipse cx="9" cy="-3" rx="3.4" ry="4.5"/>
+  </g>
+</svg>
