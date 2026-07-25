@@ -1,11 +1,16 @@
-# PSD Latam — website preview
+# PSD Latinoamérica — vista previa / preview
 
-Auto-generated **static preview** of the PSD Latam website, for review.
+Static preview of the two PSD Latinoamérica websites, published for review.
 
-- 🇪🇸 Spanish (default): the site root
-- 🇬🇧 English: under `/en/`
+- **Sitio principal** — `/sitio/` (ES) · `/sitio/en/` (EN)
+- **Escuela Canina** — `/escuela/` (ES) · `/escuela/en/` (EN)
 
-This is a snapshot for sharing/feedback — the contact form is display-only here.
-Source (private): https://github.com/sebvasquez91/psd-latam
+Generated from the WordPress sources:
+[psd-latam](https://github.com/sebvasquez91/psd-latam) ·
+[psd-latam-escuela](https://github.com/sebvasquez91/psd-latam-escuela)
 
-Do not edit these files by hand; they are regenerated from the WordPress theme.
+Notes:
+- Draft. Forms are inert in a static export.
+- Lesson **content** of the Escuela Canina course is intentionally **not**
+  published here; only the syllabus (chapter and lesson titles) is shown.
+- Do not edit by hand — regenerate from the sources.
