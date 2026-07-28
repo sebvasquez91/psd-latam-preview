@@ -5,9 +5,9 @@ Static preview of the two PSD Latinoamérica websites, published for review.
 - **Sitio principal** — `/sitio/` (ES) · `/sitio/en/` (EN)
 - **Escuela Canina** — `/escuela/` (ES) · `/escuela/en/` (EN)
 
-Generated from the WordPress sources:
-[psd-latam](https://github.com/sebvasquez91/psd-latam) ·
-[psd-latam-escuela](https://github.com/sebvasquez91/psd-latam-escuela)
+Generated from the WordPress sources in the
+[psd-latam](https://github.com/sebvasquez91/psd-latam) monorepo
+(`web/marketing` · `web/school`).
 
 Notes:
 - Draft. Forms are inert in a static export.
